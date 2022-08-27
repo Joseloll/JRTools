@@ -4,7 +4,9 @@
 #About
 - Checks Single Roblox Cookie To See If Its Valid Or Not
 - Checks Multiple Roblox Cookie To See If Its Valid Or Not
+- Also Using Proxies Is A Option To Check The Roblox Cookie
 - Proxy Scraper
+- 
 
 # To Do 
 - Add Info About The Roblox Cookie
